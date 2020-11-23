@@ -1,0 +1,10 @@
+{
+  "name": "espacenet-url",
+  "version": "0.1.0",
+  "description": "Generates a URL for the Espacenet page of a patent publication given the DOCDB number, kind code, and filing date.",
+  "main": "index.js",
+  "repository": "https://www.github.com/gojilabs/espacenet-url.git",
+  "author": "Adam Sumner <adam@gojilabs.com>",
+  "license": "MIT",
+  "private": false
+}
